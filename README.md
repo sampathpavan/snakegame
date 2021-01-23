@@ -15,7 +15,7 @@ Then in the second step we had trained our model using teachable machine and get
 
 Then at last we integrated snake game with the teachable machine code and we had changed the classnames(i.e 
 
-At before arrow keys are used to control the game at last we changed it to our classNames that we are used in teachable machine)
+At before arrow keys are used to control the game at last we changed it to our classNames that we are used in teachable machine[image recogonizations]).
 
 ![Screenshot (42)](https://user-images.githubusercontent.com/73058239/105607253-d6494a80-5dc5-11eb-85aa-8742a0e23885.png)
 
