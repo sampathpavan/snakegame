@@ -13,7 +13,8 @@ Firstly we had created a snake game with html and javascript and we can control 
 
 Then in the second step we had trained our model using teachable machine and get the code from teachable machine.
 
-Then at last we integrated snake game with the teachable machine code and we had changed the classnames(i.e 
+Then at last we integrated snake game with the teachable machine code and we had changed the classnames
+(i.e ..,
 
 At before arrow keys are used to control the game at last we changed it to our classNames that we are used in teachable machine[image recogonizations]).
 
