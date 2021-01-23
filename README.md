@@ -1,4 +1,8 @@
 # snake_game_ml
+*we have done the project as a team of 2 members:
+1.18PAA1A0580.
+2.18PA1A05F0.
+
 play snake game with your head and hands.
 
 Integrating javascript game with Machine Learning
@@ -20,6 +24,8 @@ To move up ? Raise  your both hands
 To move down ? Bend your head position
 
 Heroku link : https://snake-game-play-with-video.herokuapp.com/
+
+youtube link to watch video: https://youtu.be/rKK1aqrwMy8
 
 
 
