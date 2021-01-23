@@ -1,6 +1,8 @@
 # snake_game_ml
 *we have done the project as a team of 2 members:
-1.18PAA1A0580.
+
+1.18PA1A0580.
+
 2.18PA1A05F0.
 
 play snake game with your head and hands.
