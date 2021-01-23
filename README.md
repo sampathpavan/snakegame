@@ -9,11 +9,15 @@ play snake game with your head and hands.
 
 Integrating javascript game with Machine Learning
 
-# Resources 
+Firstly we had created a snake game with html and javascript and we can control the game by using arrow keys.
 
-Code for SnakeGame : http://zetcode.com/javascript/snake/ 
+Then in the second step we had trained our model using teachable machine and get the code from teachable machine.
 
-Test TeachableMachine on your device : https://teachablemachine.withgoogle.com/models/tA2PC5X9G/
+Then at last we integrated snake game with the teachable machine code and we had changed the classnames(i.e 
+
+At before arrow keys are used to control the game at last we changed it to our classNames that we are used in teachable machine)
+
+# How to play game ?
 
 To move right side ? Raise  your right hand(Make sure you dont raise above your head position)
 
@@ -22,6 +26,13 @@ To move left side ? Raise  your left hand(Make sure you dont raise above your he
 To move right side ? Raise  your right hand(Make sure dont raise above your head position)
 
 To move up ? Raise  your both hands
+
+
+# Resources 
+
+Code for SnakeGame : http://zetcode.com/javascript/snake/ 
+
+Test TeachableMachine on your device : https://teachablemachine.withgoogle.com/models/tA2PC5X9G/
 
 To move down ? Bend your head position
 
